@@ -95,4 +95,4 @@ currency-converter/
 ---
 
 👤 **Godwin** · Lagos, Nigeria
-🔗 [GitHub](https://github.com/YOUR-USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR-LINK)
+🔗 [GitHub](https://github.com/YOUR-USERNAME) · [LinkedIn](https://linkedin.com/in/godwin-godfrey-289428355?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
